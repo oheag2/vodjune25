@@ -1,12 +1,3 @@
-
-Report job ID,15835051911
-Date/Time generated,10 June 2025 15:34:48 BST
-Publisher network name,RTE - DFP EMEA
-User,gillian.ohea@rte.ie
-Date range,10-Mar-2025 - 08-Jun-2025
-PQL query statement, where order_id in (3582840616)
-Report type,Historical
-
 Line Item,Position of pod,Line item ID,Delivery Indicator,Ad server impressions,Ad server clicks,Ad server CTR
 Pretty Little Liars 30/15/10 sec,Pre-roll,6934745035,94.47%,"227,047",212,0.09%
 Pretty Little Liars 30/15/10 sec,Mid-roll 7,6934745035,94.47%,71,0,0.00%
@@ -107,16 +98,16 @@ Playing Nice 30/15,Mid-roll 3,6948006165,95.34%,"3,748",4,0.11%
 Playing Nice 30/15,Mid-roll 4,6948006165,95.34%,700,1,0.14%
 Playing Nice 30/15,Mid-roll 5,6948006165,95.34%,379,0,0.00%
 Playing Nice 30/15,Mid-roll 6,6948006165,95.34%,162,0,0.00%
-1883 30/15,Pre-roll,6948869743,100.05%,"265,994",461,0.17%
-1883 30/15,Mid-roll 7,6948869743,100.05%,13,0,0.00%
-1883 30/15,Mid-roll 8,6948869743,100.05%,4,0,0.00%
-1883 30/15,Mid-roll 9,6948869743,100.05%,4,0,0.00%
-1883 30/15,Mid-roll 1,6948869743,100.05%,"239,729",188,0.08%
-1883 30/15,Mid-roll 2,6948869743,100.05%,"89,778",82,0.09%
-1883 30/15,Mid-roll 3,6948869743,100.05%,"3,211",8,0.25%
-1883 30/15,Mid-roll 4,6948869743,100.05%,871,0,0.00%
-1883 30/15,Mid-roll 5,6948869743,100.05%,540,1,0.19%
-1883 30/15,Mid-roll 6,6948869743,100.05%,178,0,0.00%
+1885      ,Pre-roll,6948869743,100.05%,"265,994",461,0.17%
+1885      ,Mid-roll 7,6948869743,100.05%,13,0,0.00%
+1885      ,Mid-roll 8,6948869743,100.05%,4,0,0.00%
+1885      ,Mid-roll 9,6948869743,100.05%,4,0,0.00%
+1885      ,Mid-roll 1,6948869743,100.05%,"239,729",188,0.08%
+1885      ,Mid-roll 2,6948869743,100.05%,"89,778",82,0.09%
+1885      ,Mid-roll 3,6948869743,100.05%,"3,211",8,0.25%
+1885      ,Mid-roll 4,6948869743,100.05%,871,0,0.00%
+1885      ,Mid-roll 5,6948869743,100.05%,540,1,0.19%
+1885      ,Mid-roll 6,6948869743,100.05%,178,0,0.00%
 Clar Faisneise ar RTE,Pre-roll,6949752631,96.21%,"327,047",480,0.15%
 Clar Faisneise ar RTE,Mid-roll 7,6949752631,96.21%,45,1,2.22%
 Clar Faisneise ar RTE,Mid-roll 8,6949752631,96.21%,11,0,0.00%
